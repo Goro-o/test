@@ -32,3 +32,5 @@ while num < 2 do
 end
 print("End")
 ```
+
+### 変更点を追加
